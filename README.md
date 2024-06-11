@@ -1,4 +1,4 @@
-<h2><strong> Start Run BreadcrumbsEcommerce-Store With Django (dj) and React dev-tool ViteJS project </strong></h2>
+<h2><strong> Start Run Ecommerce-Store With Django (dj) and React dev-tool ViteJS project </strong></h2>
 
 <hr>
 <br><br>
