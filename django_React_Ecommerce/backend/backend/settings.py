@@ -107,9 +107,9 @@ DATABASES = {
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'mssql',
-#         'NAME': 'reactdjangoecommerceshopping',
+#         'NAME': 'your database name,
 #         'USER': 'amirhbana',
-#         'PASSWORD': 'Ali@13566531135613566531',
+#         'PASSWORD': 'Your password',
 #         'HOST': 'localhost',
 #         'PORT': '1433',
 #         "OPTIONS": {"driver": "ODBC Driver 17 for SQL Server",
