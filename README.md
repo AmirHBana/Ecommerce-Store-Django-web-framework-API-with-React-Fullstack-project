@@ -60,6 +60,10 @@
 
 <br>
 
+<h3 color:"yellow";>Get the docker image</h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$>docker run </pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$>docker run </pre></div>
+
 <h3>Product preview </h3>
 <hr>
 
