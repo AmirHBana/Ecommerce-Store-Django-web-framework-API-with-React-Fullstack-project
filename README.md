@@ -58,6 +58,17 @@
       then you can see the page below as in picture
 </p>
 
+<p>install nodejs in your computer; and run npm in terminal to make sure installed</p>
+</br>
+
+<p> then you have to go to frontend directory and in terminal run the command<br>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> npm install --global yarn</pre></div>  
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> yarn</pre></div>
+
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> yarn dev</pre></div>
 <br>
 
 <h3>Get the docker image</h3>
